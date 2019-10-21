@@ -8672,11 +8672,11 @@ h1, h2, h3, h4, h5,
         border-color: #fff;
         color: #7cc24d; }
   .btn.btn-secondary {
-    background: #ff5db1;
-    border: 1px solid #ff5db1;
+    background: #0d436b;
+    border: 1px solid #0d436b;
     color: #fff; }
     .btn.btn-secondary:hover, .btn.btn-secondary:focus, .btn.btn-secondary:active {
-      border: 1px solid #ff5db1;
+      border: 1px solid #0d436b;
       color: #fff; }
   .btn.btn-tertiary {
     background: #8cc152;
@@ -9806,7 +9806,7 @@ textarea.form-control {
   width: 100%; }
   .sidebar-box h3 {
     font-size: 18px;
-    margin-bottom: 20px; }
+  }
 
 .categories, .sidelink {
   padding: 0; }
